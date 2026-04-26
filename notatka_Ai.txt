@@ -1,0 +1,7 @@
+Ai wykorzystano w zakresie:
+- Walidacja techniczna kodu
+- Konsultacja błędów
+- Refaktoring kodu
+- Propozycja testów jednostkowych
+- Debugging środowiska
+- Refaktoring finalnych testów
