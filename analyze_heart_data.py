@@ -1,7 +1,7 @@
 import pandas as pd
 import json
  
- 
+ #Własna poprawka: output w formacie .json
 def load_data(path: str) -> pd.DataFrame:
     return pd.read_csv(path)
  
